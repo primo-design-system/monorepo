@@ -1,6 +1,6 @@
 {
   "name": "@primo/date-renderer",
-  "version": "1.1.6",
+  "version": "0.0.0",
   "description": "A package that prints the current date",
   "main": "index.js",
   "repository": "https://github.com/primo/monorepo",
@@ -8,7 +8,7 @@
     "@primo:registry": "https://npm.pkg.github.com/primo"
   },
   "dependencies": {
-    "@primo/date-logic": "^3.1.1"
+    "@primo/date-logic": "^0.0.0"
   },
   "scripts": {
     "test": "echo TESTS PASSED"

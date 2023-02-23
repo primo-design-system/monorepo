@@ -10,8 +10,6 @@
     "type": "git",
     "url": "git+https://github.com/primo/monorepo.git"
   },
-  "author": "Xavier Canchal",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/primo/monorepo/issues"
   },
