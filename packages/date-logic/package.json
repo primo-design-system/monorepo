@@ -1,6 +1,6 @@
 {
   "name": "@primo/date-logic",
-  "version": "3.1.1",
+  "version": "0.0.0",
   "description": "A package that returns the current date",
   "main": "index.js",
   "repository": "https://github.com/primo/monorepo",
